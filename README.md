@@ -1,5 +1,7 @@
 # Quran-QA
 
+This code consists of finetuning the multilingual pre-trained text-to-text transformer mT5 on the Qur'an QA 2022 Shared Task.
+
 ## How to run the Code? <br>
 
 1) Create an account in Google Cloud Platform (GCP) <br>
